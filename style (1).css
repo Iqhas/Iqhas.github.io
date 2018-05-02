@@ -34,13 +34,12 @@ header.startup h1 {
 }
 
 .btn {
+  position: absolute;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 400px;
   font-family: 'Varela Round', sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  
 }
  
 
