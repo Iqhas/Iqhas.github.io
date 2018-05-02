@@ -38,8 +38,12 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 400px;
   font-family: 'Varela Round', sans-serif;
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+ 
+
 
 .btn-xl {
   padding: 1rem 1rem; 
